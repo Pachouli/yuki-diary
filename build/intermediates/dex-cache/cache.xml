@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\LifeDiary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Administrator\Desktop\LifeDiary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e964d0f21eed73645d10ba2f3e2280adfbf8d354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\LifeDiary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="785d06caf619de7a0b1755d1fad0e739a7a32283">
+        <dex dex="C:\Users\Administrator\Desktop\LifeDiary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6170b109e88cf8fff7c7556f4420cca131a09302\classes.dex" />
+    </item>
+
+</items>

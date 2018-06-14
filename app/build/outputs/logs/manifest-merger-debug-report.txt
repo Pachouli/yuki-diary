@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:3:7-25
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:3:50-75
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:3:26-49
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:4:5-52:18
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:4:48-80
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:4:18-47
+provider#andy.ham.LifeDiaryContentProvider
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:5:6-6:58
+	android:authorities
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:6:4-55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:5:16-55
+activity#andy.ham.LifeDiary
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:9:19-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:8:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:12:27-74
+activity#andy.ham.DiaryEditor
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:16:2-51:14
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:18:4-39
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:17:4-46
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:16:12-38
+intent-filter#android.intent.category.DEFAULT+andy.ham.DiaryEditor.EDIT_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:20:4-26:20
+action#andy.ham.DiaryEditor.EDIT_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:21:5-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:21:13-59
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:22:5-23:55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:23:6-52
+data
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:24:5-25:68
+	android:mimeType
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:25:6-65
+intent-filter#android.intent.category.DEFAULT+andy.ham.DiaryEditor.action.INSERT_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:29:4-35:20
+action#andy.ham.DiaryEditor.action.INSERT_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:30:13-68
+intent-filter#android.intent.category.DEFAULT+andy.ham.DiaryEditor.action.DELETE_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:37:3-50:19
+action#andy.ham.DiaryEditor.action.DELETE_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:38:4-70
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:38:12-67
+intent-filter#android.intent.category.DEFAULT+andy.ham.DiaryEditor.action.Register_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:43:4-49:20
+action#andy.ham.DiaryEditor.action.Register_DIARY
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:44:5-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:44:13-70
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:53:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml:53:15-40
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\LifeDiary\app\src\main\AndroidManifest.xml

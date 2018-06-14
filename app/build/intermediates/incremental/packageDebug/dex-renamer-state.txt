@@ -1,0 +1,7 @@
+#Thu Jun 14 18:55:59 CST 2018
+base.0=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e964d0f21eed73645d10ba2f3e2280adfbf8d354
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6170b109e88cf8fff7c7556f4420cca131a09302\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6170b109e88cf8fff7c7556f4420cca131a09302
+file.0=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e964d0f21eed73645d10ba2f3e2280adfbf8d354\\classes.dex

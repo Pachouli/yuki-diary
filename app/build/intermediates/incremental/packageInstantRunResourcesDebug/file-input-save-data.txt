@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Thu Jun 14 18:55:55 CST 2018
+2.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\diary_edit.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\diary_row.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_register.xml
+5.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\diary_list.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\background.jpg
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

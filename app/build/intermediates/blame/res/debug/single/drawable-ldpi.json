@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\A\\LifeDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic.png",
+        "source": "D:\\A\\LifeDiary\\app\\src\\main\\res\\drawable-ldpi\\ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\src\\main\\res\\drawable-ldpi\\ic.png"
+    },
+    {
+        "merged": "D:\\A\\LifeDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\A\\LifeDiary\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\LifeDiary\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
